@@ -1,2 +1,2 @@
-## personal website
-This is a static html webpage with some css to display my projects
+### _Personal Website_
+This is a static html webpage with some css to display my projects.
