@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: smart-photo-album
+description: Dynamically store photos into this smart album and search for them via text or voice.
+img: assets/img/smart-album.jpg
 importance: 2
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

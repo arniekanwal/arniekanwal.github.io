@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: credit card fraud detector
+description: ML project which uses custom log-regression, SVMs, and Neural Networks to build and compare the best model for detecting fraudulent credit card transactions.
+img: assets/img/ml.png
 importance: 4
 category: fun
 ---

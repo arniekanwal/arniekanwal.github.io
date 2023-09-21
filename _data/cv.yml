@@ -1,30 +1,20 @@
 - title: Education
   type: time_table
   contents:
-    - title: Computer Science, B.S.
+    - title: Computer Science, B.S., Mathematics Minor
       institution: New York University
-      year: SEP 2020 - DEC 2023
+      year: SEP 2020 - JAN 2024
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+    - title: Software Engineering Intern
+      institution: Hubbell
+      year: SUMMER 2023
             
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: NYU High Speed Research Network
+      institution: New York University
+      year: 2022 - PRESENT
 
     - title: Advanced Math Tutor
       institution: Kumon Math and Reading Center at Denver-Lowry
@@ -34,37 +24,17 @@
       institution: Wyzant
       year: 2020 - 2021
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - 2022 NYU Technology, Culture and Society Writing Award for Best Literary Criticism
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Skills/Technologies
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+      - <u>Languages:</u> C/C++, Python, JavaScript, Go, Java, SQL/NoSQL, HTML/CSS
+      - <u>Technologies:</u> Git, Docker, Kubernetes, AWS Suite, React, Next.js, Flask, Django
+      - <u>Interests:</u> Embedded Systems, Cloud Computing, Backend Development

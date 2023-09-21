@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: anonymous american
+description: Fullstack blog built with React and Google Firebase.
+img: assets/img/aa.png
 importance: 3
 category: fun
 ---

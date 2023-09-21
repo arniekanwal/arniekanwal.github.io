@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: P2P Geeks
+description: Django networking app to connect students and schedule mock interviews.
+img: assets/img/p2p.png
 importance: 3
 category: fun
 ---

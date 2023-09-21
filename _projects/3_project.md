@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: algo-trading-bot
+description: Customizable python robot that is configured to automatically trade ETFs (leverage Alpaca paper-trading API and Alpha Vantage for technical indicators).
+img: assets/img/alpaca2.png
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
