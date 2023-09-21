@@ -1,7 +1,7 @@
 ---
 layout: page
 title: P2P Geeks
-description: Django networking app to connect students and schedule mock interviews.
+description: Django and PostgreSQL networking app to connect students and schedule mock interviews.
 img: assets/img/p2p.png
 importance: 3
 category: fun
