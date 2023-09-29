@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: headshot.jpg
+  image: assets/img/headshot.JPG
   image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items
