@@ -93,9 +93,6 @@ GEM
       jekyll (~> 4.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-toc (0.18.0)
-      jekyll (>= 3.9)
-      nokogiri (~> 1.12)
     jekyll-twitter-plugin (2.1.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
@@ -154,6 +151,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
+  arm64-darwin-23
 
 DEPENDENCIES
   classifier-reborn
@@ -170,7 +168,6 @@ DEPENDENCIES
   jekyll-paginate-v2
   jekyll-scholar
   jekyll-sitemap
-  jekyll-toc
   jekyll-twitter-plugin
   jemoji
   mini_racer
