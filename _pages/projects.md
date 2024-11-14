@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A brief look at some projects made during my undergraduate career. [github](https://github.com/arniekanwal)
+description: A brief look into some projects I've made over the years
 nav: true
 nav_order: 1
-display_categories: [fun]
+# display_categories: [fun]
 horizontal: false
 ---
 

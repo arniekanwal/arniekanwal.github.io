@@ -3,26 +3,25 @@
   contents:
     - title: Computer Science, B.S., Mathematics Minor
       institution: New York University
-      year: SEP 2020 - JAN 2024
+      year: SEP 2020 - DEC 2023
 
 - title: Experience
   type: time_table
   contents:
-    - title: Software Engineering Intern
-      institution: Hubbell
-      year: SUMMER 2023
-            
-    - title: NYU High Speed Research Network
-      institution: New York University
-      year: 2022 - PRESENT
+    - title: Associate Software Engineer 
+      institution: <a href="https://www.linkedin.com/company/hubbellincorporated/"> Hubbell Incorporated</a>
+      year: JAN 2024 - PRESENT
+      description: # Optional --> add bulleted list below if you want to add details
 
-    - title: Advanced Math Tutor
-      institution: Kumon Math and Reading Center at Denver-Lowry
-      year: 2020 - 2021
+    - title: Software Engineering Intern 
+      institution: <a href="https://www.linkedin.com/company/hubbellincorporated/"> Hubbell Incorporated</a>
+      year: MAY 2023 - AUG 2023
+      description: # Optional --> add bulleted list below if you want to add details
 
-    - title: Personal Tutor
-      institution: Wyzant
-      year: 2020 - 2021
+    - title: Lead Developer 
+      institution: <a href="https://www.linkedin.com/company/high-speed-research-network"> NYU High Speed Research Network</a>
+      year: SEP 2022 - DEC 2023
+      description: # Optional --> add bulleted list below if you want to add details
 
 
 - title: Honors and Awards
@@ -35,6 +34,5 @@
 - title: Skills/Technologies
   type: list
   contents:
-      - <u>Languages:</u> C/C++, Python, JavaScript, Go, Java, SQL/NoSQL, HTML/CSS
-      - <u>Technologies:</u> Git, Docker, Kubernetes, AWS Suite, React, Next.js, Flask, Django
-      - <u>Interests:</u> Embedded Systems, Cloud Computing, Backend Development
+      - <u>Languages:</u> C/C++, Python, JavaScript, Go, SQL/NoSQL, HTML/CSS
+      - <u>Technologies:</u> Git, Docker, Kubernetes, AWS, React, Flask, Linux, Bash

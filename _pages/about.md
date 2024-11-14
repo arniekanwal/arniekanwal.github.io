@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About # title is the name on the menu bar
 permalink: /
 subtitle: 
 
