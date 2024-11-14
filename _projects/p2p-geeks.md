@@ -1,9 +1,9 @@
 ---
 layout: page
-title: soundscape
-description: Mixture of an image-recognition ML model and OpenAI's API to perform sentiment analysis on images and return song recommendations, all hosted on the cloud.
-img: assets/img/soundscape.jpeg
-importance: 1
+title: P2P Geeks
+description: Django and PostgreSQL networking app to connect students and schedule mock interviews
+img: assets/img/p2p.png
+importance: 4
 category: fun
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: P2P Geeks
-description: Django and PostgreSQL networking app to connect students and schedule mock interviews.
-img: assets/img/p2p.png
-importance: 3
+title: Soundscape
+description: Perform sentiment analysis on uploaded images and generate fine-tuned song recommendations
+img: assets/img/soundscape.jpeg
+importance: 1
 category: fun
 ---
 

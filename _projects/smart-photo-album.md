@@ -1,9 +1,9 @@
 ---
 layout: page
-title: anonymous american
-description: Fullstack blog built with React and Google Firebase.
-img: assets/img/aa.png
-importance: 3
+title: Smart Photo Album
+description: Dynamically store photos into this smart album and search for them via text or voice
+img: assets/img/smart-album.jpg
+importance: 2
 category: fun
 ---
 

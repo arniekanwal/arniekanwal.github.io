@@ -1,9 +1,10 @@
 ---
 layout: page
-title: credit card fraud detector
-description: ML project which uses custom log-regression, SVMs, and Neural Networks to build and compare the best model for detecting fraudulent credit card transactions.
-img: assets/img/ml.png
-importance: 4
+title: Algo Trading Bots
+description: Python robot which auto-trades ETFs via an Alpaca Paper Trading account
+img: assets/img/alpaca2.png
+redirect: https://unsplash.com
+importance: 3
 category: fun
 ---
 
