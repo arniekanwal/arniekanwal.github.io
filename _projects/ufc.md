@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Soundscape
-description: Perform sentiment analysis on uploaded images and generate fine-tuned song recommendations
-img: assets/img/soundscape.jpeg
+title: UFC Predictor
+description: Sports Betting AI for the UFC
+img: assets/img/5.jpg
 importance: 1
-category: fun
+#
+# TODO: Add actual viewable content to markdown page
+#       OR put redirect to hosted website when finished
+#
 ---
 
 Every project has a beautiful feature showcase page.

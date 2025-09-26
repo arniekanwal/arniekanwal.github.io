@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Smart Photo Album
-description: Dynamically store photos into this smart album and search for them via text or voice
+description: Fullstack AI photo album built on AWS
 img: assets/img/smartphoto/smart-album.jpg
 importance: 2
 ---
@@ -27,10 +27,14 @@ by a ChatBot and sent to ElasticSearch which retrieves photo_ids (and photos) fo
 Configuration files in `.yml` format paired with these two AWS services allowed for automatic code deployment via git webhooks
 as well as the ability to respin services across the entire stack in case of failure.
 
+### Examples
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/smartphoto/smart-album.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/smartphoto/smart-album1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
