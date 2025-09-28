@@ -8,17 +8,17 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Associate Software Engineer 
+    - title: Software Engineer 
       institution: <a href="https://www.linkedin.com/company/hubbellincorporated/"> Hubbell Incorporated</a>
       year: JAN 2024 - PRESENT
       description: # Optional --> add bulleted list below if you want to add details
 
-    - title: Software Engineering Intern 
+    - title: SWE Intern 
       institution: <a href="https://www.linkedin.com/company/hubbellincorporated/"> Hubbell Incorporated</a>
       year: MAY 2023 - AUG 2023
       description: # Optional --> add bulleted list below if you want to add details
 
-    - title: Lead Developer 
+    - title: Researcher and Lead Developer 
       institution: <a href="https://www.linkedin.com/company/high-speed-research-network"> NYU High Speed Research Network</a>
       year: SEP 2022 - DEC 2023
       description: # Optional --> add bulleted list below if you want to add details
@@ -35,4 +35,4 @@
   type: list
   contents:
       - <u>Languages:</u> C/C++, Python, JavaScript, Go, SQL/NoSQL, HTML/CSS
-      - <u>Technologies:</u> Git, Docker, Kubernetes, AWS, React, Flask, Linux, Bash
+      - <u>Technologies:</u> Git, Docker, AWS, React, Angular, Flask, Linux, Bash

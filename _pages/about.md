@@ -17,6 +17,7 @@ social: false  # includes social icons at the bottom of the page
 
 I graduated from NYU's Tandon School of Engineering in December '23, receiving a B.S. in Computer Science and minor in Mathematics. 
 
-I currently work as a Software Engineer at Hubbell Incorporated, where I develop and maintain code for SCADA-compliant teleprotection devices. These products serve as network accessible nodes in the Power/Utilities space to protect, monitor, and connect devices across the grid. Before this, I worked as a lead developer at NYU's High Speed Research Network lab, leading a group of students in the design and creation of dashboard applications to manage equipment and network resources for parterning researchers and labs. 
+I currently work as a Software Engineer at Hubbell, where I develop systems-level C/C++ code for teleprotection products (embedded linux target). I work across the entire application-stack from fullstack development for the embedded webserver, networking, or interfacing with Linux kernel APIs or device driver APIs. Before this, I worked as a lead developer and researcher at NYU's High Speed Network where I had the opportunity to lead a team of undergraduates in developing dashboard apps for the lab.  
 
-My technical interests and background is currently in Distributed Systems, Cloud Computing/Infrastructure, and Systems Engineering. Beyond this, I'm an avid runner, podcast bro, and incredibly curious about the world and the mechanisms behind innovation and radical progress.
+
+My technical interests are now leaning towards Infra/backend engineering and ML. I'm fresh onto the tech scene and endlessly curious about the climate and direction of this field and the mechanisms behind growth and innovation.
